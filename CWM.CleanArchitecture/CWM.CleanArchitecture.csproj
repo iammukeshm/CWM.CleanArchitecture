@@ -3,6 +3,9 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UserSecretsId>aspnet-CWM.CleanArchitecture-828003E8-D961-416C-92C8-4E4A9D0A2F5C</UserSecretsId>
+    <Authors>Mukesh Murugan</Authors>
+    <Company>codewithmukesh</Company>
+    <PackageProjectUrl>codewithmukesh.com/clean-aspnet-core-architecture</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>

@@ -6,6 +6,7 @@ Automapper
 MediatR
 EF Core
 Fluent Validations
+Serilog
 
 ### Proposed Patterns
 Mediator Pattern
